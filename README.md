@@ -10,26 +10,26 @@ help of minimax algorithm finds the best possible move by searching the minimax 
 To run this program one needs to have python interpreter installed in their computer. And also one needs to have pygame module 
 installed. To install pygame module, use the command:
 
-'''powershell
+'''
 $pip3 install pygame
 '''  
   
   or
 
-'''powershell
+'''
 $pip install pygame
 '''
 
 To run the program, you should run the main.py program. To run the program in Terminal/Command Prompt, go to the Checkers-game
 directory and then use the following command:
 
-'''powershell
+'''
 $py main.py
 '''  
   
   or
 
-'''powershell
+'''
 $python main.py
 '''
 
