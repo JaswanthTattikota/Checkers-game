@@ -14,7 +14,7 @@ installed. To install pygame module, use the command:
 $pip3 install pygame
 ``` 
   
-  or
+   or
 
 ```ps
 $pip install pygame
@@ -27,7 +27,7 @@ directory and then use the following command:
 $py main.py
 ```
   
-  or
+   or
 
 ```ps
 $python main.py
