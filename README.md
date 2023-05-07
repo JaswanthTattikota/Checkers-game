@@ -10,15 +10,19 @@ help of minimax algorithm finds the best possible move by searching the minimax 
 To run this program one needs to have python interpreter installed in their computer. And also one needs to have pygame module 
 installed. To install pygame module, use the command:
 
->pip3 install pygame
+$pip3 install pygame
+  
   or
->pip install pygame
+
+$pip install pygame
 
 To run the program, you should run the main.py program. To run the program in Terminal/Command Prompt, go to the Checkers-game
 directory and then use the following command:
 
->py main.py
+$py main.py
+  
   or
->python main.py
+
+$python main.py
 
 Now you can run the program to play the game against the computer.
