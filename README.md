@@ -11,20 +11,20 @@ To run this program one needs to have python interpreter installed in their comp
 installed. To install pygame module, use the command:
 
 '''
-$pip3 install pygame
+pip3 install pygame
 '''  
   
   or
 
 '''
-$pip install pygame
+pip install pygame
 '''
 
 To run the program, you should run the main.py program. To run the program in Terminal/Command Prompt, go to the Checkers-game
 directory and then use the following command:
 
 '''
-$py main.py
+py main.py
 '''  
   
   or
